@@ -1,2 +1,0 @@
-# jstest
-Created with CodeSandbox
